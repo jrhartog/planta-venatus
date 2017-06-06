@@ -47,7 +47,8 @@ var loadState =  {
            game.load.spritesheet('seedling', 'assets/seedling.png', 54, 96, 9);
 
            game.load.atlasJSONArray('DandelionPlayer', 'assets/DandelionPlayer.png','assets/DandelionPlayer.json');
-
+           game.load.atlasJSONArray('VenusFlyTrap', 'assets/VenusFlyTrap.png', 'assets/VenusFlyTrap.json');
+           game.load.atlasJSONArray('Succulent', 'assets/Mister Succulent.png', 'assets/Mister Succulent.json');
            game.load.atlasJSONArray('seedlingRed', 'assets/SeedlingRed.png',
            'assets/SeedlingRed.json');
 
